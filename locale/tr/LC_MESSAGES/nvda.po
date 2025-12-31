@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NVTube 5.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Volkan Ozdemir Software Services <bilgi@volkan-ozdemir.com.tr>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Summary of the add-on in manifest.ini
+msgid "NVTube: Lightning Fast YouTube Search"
+msgstr "NVTube: Şimşek Hızında YouTube Arama"
+
+#. Description of the add-on in manifest.ini
+msgid "Professional tool that allows you to search and play YouTube videos instantly by assigning a custom shortcut."
+msgstr "Özel bir kısayol atayarak YouTube videolarını anında aramanızı ve oynatmanızı sağlayan profesyonel araç."
+
+msgid "NVTube v5.0 - Volkan Ozdemir Software Services"
+msgstr "NVTube v5.0 - Volkan Özdemir Yazılım Hizmetleri"
+
+msgid "Search query:"
+msgstr "Aranacak içerik:"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Donate"
+msgstr "Bağış Yap"
+
+msgid "Searching for {query}"
+msgstr "{query} aranıyor"
+
+msgid "No results found."
+msgstr "Sonuç bulunamadı."
+
+msgid "An error occurred during search: {error}"
+msgstr "Arama sırasında bir hata oluştu: {error}"
+
+msgid "YouTube Search"
+msgstr "YouTube Arama"
+
+msgid "NVTube"
+msgstr "NVTube"
